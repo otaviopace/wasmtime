@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["TrapCode","A trap code describing the reason for a trap."]],"mod":[["types","Common types for the Cranelift code generator."]],"struct":[["SourceLoc","A source location."],["StackMap","Stack maps record which words in a stack frame contain live GC references at a given instruction pointer."],["Type","The type of an SSA value."]]});
